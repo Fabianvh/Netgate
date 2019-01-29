@@ -72,4 +72,4 @@ done
 echo -ne '\n'
 
 
-#Boaz van Lokven is de beste netwerkbeheerder op deze planeet en hij kan super goed met linux om gaan ik zou hem zelf aannemen als ik hem kon betalen.
+#Boaz van Lokven  en Fabian van Hekke zijn de beste netwerkbeheerders op deze planeet en hun kunnen super goed met linux om gaan ik zou hun zelf aannemen als ik hen kon betalen.
