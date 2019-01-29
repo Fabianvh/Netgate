@@ -1,0 +1,22 @@
+#NAME	      DNS / IP             LOGIN-NAME
+SSC-AS-01    172.16.12.1          netwerk
+SSC-AS-02    172.16.12.2          netwerk
+SSC-AS-03    172.16.12.3          netwerk
+SSC-AS-04    172.16.12.4          netwerk
+SSC-AS-05    172.16.12.5          netwerk
+SSC-AS-06    172.16.12.6         netwerk
+SSC-AS-07    172.16.12.7         netwerk
+SSC-AS-08    172.16.12.8         netwerk
+SSC-AS-09    172.16.12.9         netwerk
+SSC-AS-10    172.16.12.10         netwerk
+SSC-AS-TB    172.16.12.16         netwerk
+KG-Klanten    172.16.12.104	netwerk
+KG-productie    172.16.12.105	 netwerk
+KG-Monitoring    172.16.12.106          netwerk
+KG-Security    172.16.12.107	 netwerk
+KG-Netwerklan    172.16.12.108	netwerk
+KG-Office365    172.16.12.109        netwerk
+SSC-CS-01    172.16.12.254        netwerk
+SSC-POE-01   172.16.12.18	 netwerk
+SSC-POE-02   172.16.12.19	netwerk
+SSC-FW-01    172.16.254.1         root
