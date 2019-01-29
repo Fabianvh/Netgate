@@ -11,7 +11,7 @@ function gitf(){
     echo -e "
     INFO: Cloning netgate "
     echo ""
-    sudo git clone https://github.com/ZLNDFab/netgate.git
+    sudo git clone https://github.com/ZLNDFab/Netgate.git
     sudo rm -rf /usr/bin/netgate
 }
 
