@@ -22,7 +22,7 @@ function login_name(){
 function text(){
   echo -e "
 +------------------------------------+
-   You chose => \t ${host}
+   Jouw keuze => \t ${host}
 +------------------------------------+"
   echo ""
 }
