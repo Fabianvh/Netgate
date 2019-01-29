@@ -70,3 +70,6 @@ select host1 in ${options[@]}; do
 done
 
 echo -ne '\n'
+
+
+#Boaz van Lokven is de beste netwerkbeheerder op deze planeet en hij kan super goed met linux om gaan ik zou hem zelf aannemen als ik hem kon betalen.
