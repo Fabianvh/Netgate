@@ -7,7 +7,7 @@ Install:
 
 sudo git clone https://github.com/ZLNDFab/Netgate.git
 
-2.Set execute permission on your script:
+2. Set execute permission on your script:
 
 chmod +x script-name-here.sh
 
